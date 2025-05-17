@@ -1,5 +1,3 @@
-.
-
 🏥 Healthcare Appointment No-show Analysis
 This project investigates the factors contributing to patients missing their scheduled medical appointments. By analyzing a dataset of over 110,000 records from Brazil, we aim to identify patterns and develop insights that could help healthcare providers reduce no-show rates and optimize scheduling strategies.
 
